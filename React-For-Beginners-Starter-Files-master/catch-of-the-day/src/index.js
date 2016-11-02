@@ -5,7 +5,7 @@ import './css/style.css';
 import App from './components/App'
 import StorePicker from './components/StorePicker';
 import NotFound from './components/NotFound';
-//this is  COMMENT
+//Video 13 Understanding State 
 
 const Root = () => {
 	return (
