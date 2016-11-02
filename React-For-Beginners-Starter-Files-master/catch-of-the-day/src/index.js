@@ -1,4 +1,3 @@
-// let's go!
 import React from 'react';
 import { BrowserRouter, Match, Miss } from 'react-router';
 import {render} from 'react-dom';
